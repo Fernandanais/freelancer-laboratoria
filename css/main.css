@@ -52,7 +52,12 @@ section h1{
  	position: relative;
  	background-color: #18BC9C;
  	color: #fff;
- 	padding: 100px;
+ 	padding: 100px 100px 300px 100px;
+
+ }
+ #contact{
+ 	position: relative;
+ 	top: 200px;
  }
 footer{
   text-align: center;
@@ -61,7 +66,7 @@ footer{
   color: white;
   padding-top: 7px;
   position: relative;
-  top: 300px;
+  top: 200px;
 }
 .box-porta{
   display: inline-block;
