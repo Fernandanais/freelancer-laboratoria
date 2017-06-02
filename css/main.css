@@ -47,7 +47,13 @@ section h1{
  	top: 60px;
  	position: relative;
  }
-
+ #about{
+ 	top: 150px;
+ 	position: relative;
+ 	background-color: #18BC9C;
+ 	color: #fff;
+ 	padding: 100px;
+ }
 footer{
   text-align: center;
   height: 70px;
@@ -55,13 +61,12 @@ footer{
   color: white;
   padding-top: 7px;
   position: relative;
-  top: 100px;
+  top: 300px;
 }
 .box-porta{
   display: inline-block;
   width: 30%;
   margin-top: 63px;
-
 }
 
  /**/
